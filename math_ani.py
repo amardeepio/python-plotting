@@ -39,8 +39,8 @@ def run(data):
 
     if y >= ymax:
         ax2.set_ylim (ymin, 2*ymax)
-        ani._blit_cache.clear() # <- add to clear background from blit cache
-        title.set_text('') # <- eliminate text artifact in title
+        ani._blit_cache.clear() 
+        title.set_text('') 
         ax2.figure.canvas.draw()
 
     title.set_text ("time = %.3f, y(t) = 1.1 + sin(2*pi*t) + exp(t/10) = %.3f" % (t, y))
