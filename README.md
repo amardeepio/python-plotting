@@ -1,4 +1,4 @@
-# Process-Visualization
+# Python-plotting
 
 using matplotlib to plot various mathematical functions in python 
 
