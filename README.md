@@ -16,4 +16,6 @@ pip install -r requirements.txt
 
 ![mandelbrot fractal](https://github.com/amardeep-programmer/python-plotting/blob/master/mandelbrot.png)
 
+### reference 
 
+https://hardmath123.github.io/scratch-mandelbrot.html
