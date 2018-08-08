@@ -8,4 +8,8 @@ python 2.7
 
 pip install -r requirements.txt
 
+### Screenshot of interactive lissajous curve
+
+![lissajous curve](https://github.com/amardeep-programmer/python-plotting/blob/master/lissajous8.png)
+
 
