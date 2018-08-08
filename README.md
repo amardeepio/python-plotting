@@ -12,4 +12,8 @@ pip install -r requirements.txt
 
 ![lissajous curve](https://github.com/amardeep-programmer/python-plotting/blob/master/lissajous8.png)
 
+### Screenshot of animated mandelbrot fractal
+
+![mandelbrot fractal](https://github.com/amardeep-programmer/python-plotting/blob/master/mandelbrot.png)
+
 
